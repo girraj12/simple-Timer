@@ -1,0 +1,2 @@
+.App{align-items:center;display:flex;flex-direction:column;font-family:Arial,Helvetica,sans-serif;justify-content:center;margin:50px auto;width:90vw}h1{align-self:flex-start}b{font-size:2rem}.actions{display:flex;gap:30px;margin-block:30px}button{align-items:center;border:none;box-shadow:0 3px 8px #0000003d;cursor:pointer;display:flex;justify-content:center;padding:10px;width:100px}button img{width:30px}button:disabled{box-shadow:none;cursor:not-allowed}
+/*# sourceMappingURL=main.9f95fff9.css.map*/
